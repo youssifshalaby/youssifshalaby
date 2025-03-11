@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Youssef Shalaby!<br>🚀 Data Scientist & Machine Learning Engineer<br>🎓 Computer Science student – Arab Open University<br>🧠 Problem Solver | Instructor | Content Creator<br><br>About Me<br>I'm passionate about AI, data science, and problem-solving. With a background in machine learning, deep learning, and data analytics, I enjoy building intelligent solutions and exploring cutting-edge technologies. Beyond coding, I share knowledge as an instructor and content creator, helping others dive into programming and algorithmic problem-solving.<br><br>
+# 👋 Hi there, I'm Youssef Shalaby!
+🚀 Data Scientist & Machine Learning Engineer<br>🎓 Computer Science student – Arab Open University<br>🧠 Problem Solver | Instructor | Content Creator<br><br>About Me<br>I'm passionate about AI, data science, and problem-solving. With a background in machine learning, deep learning, and data analytics, I enjoy building intelligent solutions and exploring cutting-edge technologies. Beyond coding, I share knowledge as an instructor and content creator, helping others dive into programming and algorithmic problem-solving.<br><br>
 
 
 ## 🌐 Socials:
