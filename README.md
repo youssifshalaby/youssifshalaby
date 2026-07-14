@@ -63,14 +63,6 @@ Deep Learning image classification project using:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssifshalaby)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssifshalaby)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shalaby18)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssifshalabe@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssifshalaby) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shalaby18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssifshalabe@gmail.com)
 ---
 
@@ -116,5 +108,6 @@ Deep Learning image classification project using:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssifshalaby&theme=dark&hide_border=false&layout=compact)
 
 ---
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --- [![](https://visitcount.itsvg.in/api?id=youssifshalaby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐️ From [Youssef Shalaby](https://github.com/youssifshalaby)
